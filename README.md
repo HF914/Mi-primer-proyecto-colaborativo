@@ -5,6 +5,11 @@ Aprender a utilizar herramientas de control de versiones y plataformas colaborat
 
 ## Integrante
 - Faiber Hidalgo
+- Bruno Diaz
+- Joan Sanchez
+- Ewar Mullo
+  
+- Estudiantes de Segundo Semestre - Paralelo B
 
 ## Herramientas colaborativas investigadas
 - **GitHub**: Plataforma de alojamiento para control de versiones y colaboración.
